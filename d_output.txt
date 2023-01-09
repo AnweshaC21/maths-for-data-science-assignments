@@ -1,0 +1,21 @@
+Symmetric Matrix, S = 
+[[1 5 -2]
+ [5 4 5]
+ [-2 5 1]]
+
+P = 
+[[1 -1 1]
+ [-1 0 2]
+ [1 1 1]]
+
+Diagonal Matrix, D = 
+[[-6 0 0]
+ [0 3 0]
+ [0 0 9]]
+
+P*D*P_inv = 
+[[1 5 -2]
+ [5 4 5]
+ [-2 5 1]] = A
+
+Process finished with exit code 0
